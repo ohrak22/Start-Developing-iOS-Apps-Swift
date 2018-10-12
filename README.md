@@ -27,17 +27,16 @@ FoodTracker app을 위한 간단한 User Interface(UI)를 만들 것입니다.
 2. welcome window에서 "Create a new Xcode project"를 선택하거나 File > New > Project를 선택한다.
 3. select Single View Application and then click Next.
 4. 앱 이름 및 추가 사항 입력
-   * Product Name: FoodTracker
-   * Organization Identifier: 보유하고 있는 Organization Identifier를 사용하고 없으면 com.example을 사용한다.
-   * Language: Swift
-   * Use Core Data: Unselected.
-   * Include Unit Tests: Selected.
-   * Include UI Tests: Unselected.
+  * Product Name: FoodTracker
+  * Organization Identifier: 보유하고 있는 Organization Identifier를 사용하고 없으면 com.example을 사용한다.
+  * Language: Swift
+  * Use Core Data: Unselected.
+  * Include Unit Tests: Selected.
+  * Include UI Tests: Unselected.
 
 ### Run iOS Simulator
 1. select the iPhone 7 Simulator, not an iOS device.
 ![schememenu](./images/BBUI_schememenu_2x.png)
-<img width="300" height="500">![schememenu](./images/BBUI_schememenu_2x.png)</img>
 2. Click the Run button, located in the top-left corner of the Xcode toolbar.
 ![toolbar](./images/BBUI_toolbar_2x.png)
 3. 시뮬레이터에서 확인하기.
