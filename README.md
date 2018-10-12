@@ -4,7 +4,7 @@ https://developer.apple.com/library/archive/referencelibrary/GettingStarted/Deve
 
 
 # Getting started
-## ump Right In
+## Jump Right In
 ### About the Lessons
 
 FoodTracker라는 간단한 식사 추적 응용 프로그램을 만들 것입니다.
